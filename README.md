@@ -1,6 +1,6 @@
 <h1 align="center">👋 Problem Dulu, Solvingnya Belakangan!</h1>
 
----
+###
 
 ![header](img/header.webp)
 
@@ -20,6 +20,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/hydarlm/hydarlm/output/snake.svg" alt="Snake animation" />
+![nature](img/nature.jpeg)
 
 ###
