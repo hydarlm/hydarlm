@@ -18,8 +18,16 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
----
+###
+<h3> Let's Connect 👇 </h3>
+<p align="left">
+  <a href="https://instagram.com/hydarlm">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30" />
+  </a>
+</p>
 
+###
+---
 ![nature](img/nature.jpeg)
 
 ###
