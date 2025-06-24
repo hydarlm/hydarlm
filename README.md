@@ -28,7 +28,7 @@
   <a href="https://instagram.com/hydarlm">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30" />
   </a>
-  <a href="https://x.com/hydarlm_">
-    <img src="https://img.shields.io/badge/X-%230077B5.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X" height="30" />
+  <a href="https://twitter.com/hydarlm_">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30" />
   </a>
 </p>
