@@ -3,7 +3,7 @@
 ![header](img/header.png)
 
 ###
-<h1 align="center">Problem Dulu, Solvingnya Belakangan!</h1>
+<h1 align="center">Debugging is My Cardio!</h1>
 
 <p align="center">
   <b>⚡️ Frontend Developer | Problem Solver | Tech Enthusiast ⚡️</b>
