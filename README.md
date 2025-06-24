@@ -25,9 +25,8 @@
 ---
 <h3> Let's Connect 👇 </h3>
 <p align="left">
-  <a href="https://instagram.com/hydarlm">
+  <a href="https://www.instagram.com/hydarlm/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30" />
-  </a>
   <a href="https://twitter.com/hydarlm_">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30" />
   </a>
