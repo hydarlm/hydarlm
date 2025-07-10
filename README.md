@@ -4,7 +4,6 @@
 
 ###
 <h1 align="center">Debugging is My Cardio!</h1>
-
 <p align="center">
   <b>⚡️ Frontend Developer | Problem Solver | Tech Enthusiast ⚡️</b>
 </p>
