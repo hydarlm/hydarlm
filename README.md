@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Figma-DC2525?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/CURSOR_AI-000000?style=for-the-badge&logoColor=white" />
+  
 </p>
 
 ---
